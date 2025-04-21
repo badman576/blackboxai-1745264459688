@@ -1,0 +1,2 @@
+# Requirements for NeuroFusion Ultimate AI system
+# No external dependencies required for the current basic implementation
